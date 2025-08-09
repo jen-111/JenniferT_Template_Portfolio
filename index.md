@@ -78,8 +78,6 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| **Part** | **Note** | **Price** | **Link** |
-|----------|----------|-----------|----------|
 | Robotic Arm | What the item is used for | $49.99 | [Link](https://www.amazon.com/LK-COKOINO-Compliment-Engineering-Technology/dp/B081FG1JQ1) |
 | Servo Shield | What the item is used for | $10.99 | [Link](https://www.amazon.com/HiLetgo-Expansion-Sensor-Arduino-Duemilanove/dp/B07VQRCC8F) |
 | Screwdriver Kit | What the item is used for | $7.99 | [Link](https://www.amazon.com/Small-Screwdriver-Set-Mini-Magnetic/dp/B08RYXKJW9/) |
